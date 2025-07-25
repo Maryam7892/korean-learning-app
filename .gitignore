@@ -1,0 +1,10 @@
+# React Native / Node
+node_modules/
+.expo/
+.expo-shared/
+*.log
+android/app/debug
+android/app/release
+ios/build/
+*.keystore
+.env
